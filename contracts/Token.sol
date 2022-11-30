@@ -10,11 +10,11 @@ contract Token {
     // {
         // check the sender has enough balance tokens
 
-        // deduct the amount from that address
+        // deduct the amount of sender
 
-        // increase the amount in that address
+        // increase the amount of recipient
     // }
 
-    // define a func balanceOf, which returns the balance of specify address 
+    // define a func balanceOf, which returns the balance of specify address {}
 
 }
